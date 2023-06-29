@@ -11,7 +11,7 @@ This code is about Particle Swarm Optimisation (PSO) which is hinted at by bird 
 
 # Architecture
 
-
+![pso](https://github.com/khajaraouf/PSO_Python_Implementation/assets/70451209/ec119b45-5122-4a6c-b326-1d43eca02a1e)
 
 # Reference Papers
 
